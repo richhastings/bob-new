@@ -1,7 +1,7 @@
 {
   "name": "@richhastings/bob-new",
   "private": false,
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
@@ -25,6 +25,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "@richhastings:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
